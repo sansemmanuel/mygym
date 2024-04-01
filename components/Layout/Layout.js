@@ -1,7 +1,7 @@
 import React from "react";
 import Footer from "./Footer";
 import Header from "./Header";
-import { Analytics } from "@vercel/analytics/react"
+import { Analytics } from "@vercel/analytics/"
 const Layout = ({ children }) => {
   return (
     <>
