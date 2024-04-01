@@ -4,10 +4,10 @@ import { useRouter } from "next/router";
 
 // Default value for some meta data
 const defaultMeta = {
-  title: 'LaslesVPN',
-  siteName: 'LaslesVPN',
+  title: 'MyGym App',
+  siteName: 'MyGym App',
   description:
-    'Landing page VPN LaslesVPN Best VPN For Privacy, Country and Cheapest',
+    'Optimize gym operations with our all-in-one app. Manage reservations, memberships, and payments seamlessly. Engage clients with scoring and automated notifications. Plus, boost visibility—your gym is discoverable through our platform. Elevate your gym performance today',
   // change base url of your web (without '/' at the end)
   url: 'https://next-landing-vpn.vercel.app',
   type: 'website',
