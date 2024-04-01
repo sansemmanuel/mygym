@@ -9,12 +9,12 @@ const defaultMeta = {
   description:
     'Optimize gym operations with our all-in-one app. Manage reservations, memberships, and payments seamlessly. Engage clients with scoring and automated notifications. Plus, boost visibility—your gym is discoverable through our platform. Elevate your gym performance today',
   // change base url of your web (without '/' at the end)
-  url: 'https://next-landing-vpn.vercel.app',
+  url: '',
   type: 'website',
   robots: 'follow, index',
   // change with url of your image (recommended dimension = 1.91:1)
   // used in twitter, facebook, etc. card when link copied in tweet/status 
-  image: 'https://next-landing-vpn.vercel.app/assets/card-image.png',
+  image: '',
   author: 'Lorem Ipsum'
 };
 
